@@ -29,3 +29,11 @@ data.append([ p.group(i) for i in range(1,6) ])
 
 # What do we have
 print(data)
+
+# More realistic example
+feature = p[3]
+status  = p[2]
+time    = p[1]
+user    = p[4]
+node    = p[5]
+print(f"{user} checked {status.lower()} {feature} on {node} at {time}")
