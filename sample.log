@@ -1,0 +1,347 @@
+16:52:26 (lmgrd) -----------------------------------------------
+16:52:26 (lmgrd)   Please Note:
+16:52:26 (lmgrd) 
+16:52:26 (lmgrd)   This log is intended for debug purposes only.
+16:52:26 (lmgrd)   In order to capture accurate license
+16:52:26 (lmgrd)   usage data into an organized repository,
+16:52:26 (lmgrd)   please enable report logging. Use Flexera Software, Inc.'s
+16:52:26 (lmgrd)   software license administration  solution,
+16:52:26 (lmgrd)   FLEXnet Manager, to  readily gain visibility
+16:52:26 (lmgrd)   into license usage data and to create
+16:52:26 (lmgrd)   insightful reports on critical information like
+16:52:26 (lmgrd)   license availability and usage. FLEXnet Manager
+16:52:26 (lmgrd)   can be fully automated to run these reports on
+16:52:26 (lmgrd)   schedule and can be used to track license
+16:52:26 (lmgrd)   servers and usage across a heterogeneous
+16:52:26 (lmgrd)   network of servers including Windows NT, Linux
+16:52:26 (lmgrd)   and UNIX. Contact Flexera Software, Inc. at
+16:52:26 (lmgrd)   www.flexerasoftware.com for more details on how to
+16:52:26 (lmgrd)   obtain an evaluation copy of FLEXnet Manager
+16:52:26 (lmgrd)   for your enterprise.
+16:52:26 (lmgrd) 
+16:52:26 (lmgrd) -----------------------------------------------
+16:52:26 (lmgrd) 
+16:52:26 (lmgrd) 
+16:52:26 (lmgrd) FLEXnet Licensing (v11.9.0.0 build 87342 x64_lsb) started on checkout.data.umich.edu (linux) (8/13/2013)
+16:52:26 (lmgrd) Copyright (c) 1988-2010 Flexera Software, Inc. All Rights Reserved.
+16:52:26 (lmgrd) US Patents 5,390,297 and 5,671,412.
+16:52:26 (lmgrd) World Wide Web:  http://www.flexerasoftware.com
+16:52:26 (lmgrd) lmdown/lmreread only allowed on this machine
+16:52:26 (lmgrd) License file(s): ../matlab/license.dat
+16:52:26 (lmgrd) lmgrd tcp-port 1709
+16:52:26 (lmgrd) Starting vendor daemons ... 
+16:52:26 (lmgrd) Using vendor daemon port 20008 specified in license file
+16:52:26 (lmgrd) Started MLM (internet tcp_port 20008 pid 1857)
+16:52:26 (MLM) FLEXnet Licensing version v11.9.0.0 build 87342 x64_lsb
+16:52:26 (MLM) Using options file: "/var/checkout/license.d/matlab/matlab.opt"
+16:52:26 (MLM) Server started on checkout.data.umich.edu for:	MATLAB_Distrib_Comp_Engine 
+16:52:26 (MLM) MATLAB		SIMULINK	Bioinformatics_Toolbox 
+16:52:26 (MLM) Communication_Toolbox Control_Toolbox Curve_Fitting_Toolbox 
+16:52:26 (MLM) Signal_Blocks	Data_Acq_Toolbox Database_Toolbox 
+16:52:26 (MLM) Fixed_Point_Toolbox GADS_Toolbox	Image_Toolbox	
+16:52:26 (MLM) Instr_Control_Toolbox Compiler	MAP_Toolbox	
+16:52:26 (MLM) Neural_Network_Toolbox Optimization_Toolbox Distrib_Computing_Toolbox 
+16:52:26 (MLM) PDE_Toolbox	Robust_Toolbox	Signal_Toolbox	
+16:52:26 (MLM) SimMechanics	Simscape	Stateflow	
+16:52:26 (MLM) Statistics_Toolbox Symbolic_Toolbox Identification_Toolbox 
+16:52:26 (MLM) Wavelet_Toolbox 
+16:52:26 (MLM) EXTERNAL FILTERS are OFF
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 141.212.30.* in ALL FEATURES
+16:52:26 (MLM) INCLUDE Internet Address 10.164.*.* in ALL FEATURES
+16:52:26 (lmgrd) MLM using TCP-port 20008
+16:52:27 (MLM) TCP_NODELAY NOT enabled
+16:52:27 (MLM) OUT: "MATLAB" superman@elf5517.data.umich.edu  
+16:52:28 (MLM) OUT: "MATLAB" superman@elf5542.data.umich.edu  
+16:52:28 (MLM) OUT: "MATLAB" superman@elf5601.data.umich.edu  
+16:52:30 (MLM) OUT: "MATLAB" superman@elf5558.data.umich.edu  
+16:52:30 (MLM) OUT: "MATLAB" superman@elf5558.data.umich.edu  
+16:52:33 (MLM) OUT: "MATLAB" superman@elf5526.data.umich.edu  
+16:52:36 (MLM) OUT: "MATLAB" superman@elf5628.data.umich.edu  
+16:52:41 (MLM) OUT: "MATLAB" superman@elf5628.data.umich.edu  
+16:52:41 (MLM) OUT: "MATLAB" superman@elf5549.data.umich.edu  
+16:52:41 (MLM) OUT: "MATLAB" superman@elf5541.data.umich.edu  
+16:52:41 (MLM) OUT: "MATLAB" superman@elf5569.data.umich.edu  
+16:52:41 (MLM) OUT: "MATLAB" superman@elf5615.data.umich.edu  
+16:52:46 (MLM) OUT: "MATLAB" storm@elf5553.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5586.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" supergirl@elf5586.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5525.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5525.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5525.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" grundoon@elf5551.data.umich.edu  
+16:52:50 (MLM) OUT: "Statistics_Toolbox" supergirl@elf5586.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5604.data.umich.edu  
+16:52:50 (MLM) OUT: "Control_Toolbox" grundoon@elf5551.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5618.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5541.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5618.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5604.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" superman@elf5604.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" storm@elf5534.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" storm@elf5584.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" supergirl@elf5009.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" supergirl@elf5570.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" storm@elf5557.data.umich.edu  
+16:52:50 (MLM) OUT: "Statistics_Toolbox" supergirl@elf5009.data.umich.edu  
+16:52:50 (MLM) OUT: "Statistics_Toolbox" supergirl@elf5570.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" aquaman@elf5536.data.umich.edu  
+16:52:50 (MLM) OUT: "MATLAB" aquaman@elf5571.data.umich.edu  
+16:52:50 (MLM) OUT: "Optimization_Toolbox" aquaman@elf5536.data.umich.edu  
+16:52:50 (MLM) OUT: "Statistics_Toolbox" aquaman@elf5571.data.umich.edu  
+16:52:50 (MLM) OUT: "Statistics_Toolbox" aquaman@elf5536.data.umich.edu  
+16:52:50 (MLM) OUT: "Optimization_Toolbox" aquaman@elf5571.data.umich.edu  
+16:52:51 (MLM) OUT: "MATLAB" superman@elf5586.data.umich.edu  
+16:52:51 (MLM) OUT: "MATLAB" superman@elf5605.data.umich.edu  
+16:52:51 (MLM) OUT: "MATLAB" storm@elf5622.data.umich.edu  
+16:52:51 (MLM) OUT: "MATLAB" supergirl@elf5009.data.umich.edu  
+16:52:51 (MLM) OUT: "MATLAB" superman@elf5620.data.umich.edu  
+16:52:51 (MLM) OUT: "MATLAB" superman@elf5620.data.umich.edu  
+16:52:51 (MLM) OUT: "MATLAB" storm@elf5625.data.umich.edu  
+16:52:51 (MLM) OUT: "MATLAB" storm@elf5604.data.umich.edu  
+16:52:51 (MLM) OUT: "Statistics_Toolbox" supergirl@elf5009.data.umich.edu  
+16:52:52 (MLM) OUT: "MATLAB" superman@elf5586.data.umich.edu  
+16:52:52 (MLM) OUT: "MATLAB" storm@elf5601.data.umich.edu  
+16:52:52 (MLM) OUT: "MATLAB" superman@elf5584.data.umich.edu  
+16:52:52 (MLM) OUT: "MATLAB" superman@elf5584.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5603.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5603.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5599.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5599.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" superman@elf5605.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" superman@elf5605.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5517.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5517.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5532.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5604.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5570.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5574.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5625.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5610.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5553.data.umich.edu  
+16:52:53 (MLM) OUT: "MATLAB" storm@elf5559.data.umich.edu  
+16:52:54 (MLM) OUT: "MATLAB" storm@elf5599.data.umich.edu  
+16:52:55 (MLM) OUT: "MATLAB" aquaman@elf5543.data.umich.edu  
+16:52:55 (MLM) OUT: "Optimization_Toolbox" aquaman@elf5543.data.umich.edu  
+16:52:55 (MLM) OUT: "Statistics_Toolbox" aquaman@elf5543.data.umich.edu  
+16:52:59 (MLM) OUT: "MATLAB" superman@elf5588.data.umich.edu  
+16:53:10 (MLM) IN: "MATLAB" superman@elf5588.data.umich.edu  
+16:53:10 (MLM) OUT: "MATLAB" superman@elf5588.data.umich.edu  
+16:53:10 (MLM) OUT: "MATLAB" storm@elf5628.data.umich.edu  
+16:53:10 (MLM) OUT: "MATLAB" storm@elf5520.data.umich.edu  
+16:53:15 (MLM) OUT: "MATLAB" storm@elf5511.data.umich.edu  
+16:53:17 (MLM) OUT: "MATLAB" storm@elf5511.data.umich.edu  
+16:53:17 (MLM) OUT: "MATLAB" superman@elf5571.data.umich.edu  
+16:53:18 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+16:53:19 (MLM) OUT: "MATLAB" storm@elf5563.data.umich.edu  
+16:53:19 (MLM) OUT: "MATLAB" storm@elf5606.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" storm@elf5615.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" storm@elf5563.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" storm@elf5563.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" storm@elf5618.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" storm@elf5618.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" pogo@elf7009.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" pogo@elf7009.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" pogo@elf7009.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" pogo@elf7009.data.umich.edu  
+16:53:20 (MLM) OUT: "MATLAB" pogo@elf7008.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" pogo@elf7009.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" storm@elf5563.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" pogo@elf7009.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" pogo@elf7009.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" storm@elf5565.data.umich.edu  
+16:53:21 (MLM) OUT: "MATLAB" storm@elf5565.data.umich.edu  
+16:53:21 (MLM) OUT: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+16:53:21 (MLM) OUT: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+16:53:21 (MLM) OUT: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+16:53:21 (MLM) OUT: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+16:53:22 (MLM) OUT: "MATLAB" storm@elf5606.data.umich.edu  
+16:53:23 (MLM) OUT: "MATLAB" superman@elf5555.data.umich.edu  
+16:53:23 (MLM) OUT: "MATLAB" superman@elf5533.data.umich.edu  
+16:53:23 (MLM) OUT: "MATLAB" superman@elf5533.data.umich.edu  
+16:53:23 (MLM) OUT: "MATLAB" superman@elf5563.data.umich.edu  
+16:53:23 (MLM) OUT: "MATLAB" superman@elf5555.data.umich.edu  
+16:53:23 (MLM) OUT: "MATLAB" superman@elf5551.data.umich.edu  
+16:53:23 (MLM) OUT: "MATLAB" superman@elf5551.data.umich.edu  
+17:00:42 (MLM) IN: "MATLAB" storm@elf5622.data.umich.edu  
+17:03:17 (MLM) OUT: "MATLAB" aquaman@elf-login2.data.umich.edu  
+17:03:43 (MLM) IN: "MATLAB" aquaman@elf-login2.data.umich.edu  
+17:03:51 (MLM) OUT: "MATLAB" flash@elf-login1.data.umich.edu  
+17:04:05 (MLM) IN: "MATLAB" flash@elf-login1.data.umich.edu  
+17:04:05 (MLM) OUT: "MATLAB" flash@elf-login1.data.umich.edu  
+17:07:23 (MLM) OUT: "Compiler" storm@elf-login1.data.umich.edu  
+17:08:57 (MLM) IN: "MATLAB" storm@elf5604.data.umich.edu  
+17:15:10 (MLM) IN: "MATLAB" storm@elf5599.data.umich.edu  
+17:15:12 (MLM) OUT: "MATLAB" storm@elf5591.data.umich.edu  
+17:15:15 (MLM) IN: "MATLAB" storm@elf5601.data.umich.edu  
+17:15:17 (MLM) OUT: "MATLAB" storm@elf5591.data.umich.edu  
+17:15:22 (MLM) OUT: "MATLAB" storm@elf5591.data.umich.edu  
+17:15:22 (MLM) OUT: "MATLAB" storm@elf5591.data.umich.edu  
+17:15:25 (MLM) OUT: "MATLAB" storm@elf5591.data.umich.edu  
+17:15:25 (MLM) OUT: "MATLAB" storm@elf5589.data.umich.edu  
+17:15:25 (MLM) OUT: "MATLAB" storm@elf5584.data.umich.edu  
+17:15:26 (MLM) OUT: "MATLAB" storm@elf5584.data.umich.edu  
+17:15:33 (MLM) OUT: "MATLAB" storm@elf5584.data.umich.edu  
+17:15:34 (MLM) OUT: "MATLAB" storm@elf5584.data.umich.edu  
+17:15:34 (MLM) OUT: "MATLAB" storm@elf5584.data.umich.edu  
+17:15:36 (MLM) OUT: "MATLAB" storm@elf5538.data.umich.edu  
+17:15:38 (MLM) OUT: "MATLAB" storm@elf5628.data.umich.edu  
+17:16:35 (MLM) OUT: "MATLAB" storm@elf5525.data.umich.edu  
+17:21:03 (MLM) IN: "MATLAB" storm@elf5584.data.umich.edu  
+17:24:32 (MLM) IN: "MATLAB" storm@elf5603.data.umich.edu  
+17:25:15 (MLM) OUT: "MATLAB" storm@elf5211.data.umich.edu  
+17:27:27 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+17:27:39 (MLM) OUT: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+17:28:43 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+17:28:56 (MLM) OUT: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+17:33:37 (MLM) IN: "MATLAB" storm@elf5559.data.umich.edu  
+17:36:39 (MLM) OUT: "Compiler" storm@elf-login1.data.umich.edu  
+17:39:46 (MLM) IN: "Compiler" storm@elf-login1.data.umich.edu  
+17:52:27 (MLM) OUT: "Compiler" storm@elf-login1.data.umich.edu  
+17:53:15 (MLM) IN: "MATLAB" storm@elf5517.data.umich.edu  
+17:54:51 (MLM) IN: "Compiler" storm@elf-login1.data.umich.edu  
+17:57:58 (MLM) OUT: "MATLAB" grundoon@elf5602.data.umich.edu  
+17:58:28 (MLM) IN: "MATLAB" storm@elf5599.data.umich.edu  
+17:59:30 (MLM) IN: "MATLAB" flash@elf-login1.data.umich.edu  
+18:03:02 (MLM) OUT: "Compiler" storm@elf-login1.data.umich.edu  
+18:05:55 (MLM) IN: "Compiler" storm@elf-login1.data.umich.edu  
+18:07:07 (MLM) IN: "MATLAB" storm@elf5603.data.umich.edu  
+18:07:17 (MLM) IN: "MATLAB" storm@elf5574.data.umich.edu  
+18:11:40 (MLM) OUT: "Compiler" storm@elf-login1.data.umich.edu  
+18:14:17 (MLM) IN: "Compiler" storm@elf-login1.data.umich.edu  
+18:19:27 (MLM) IN: "MATLAB" storm@elf5557.data.umich.edu  
+18:24:05 (MLM) IN: "MATLAB" storm@elf5517.data.umich.edu  
+18:36:45 (MLM) IN: "MATLAB" storm@elf5610.data.umich.edu  
+18:38:10 (MLM) IN: "MATLAB" storm@elf5599.data.umich.edu  
+18:41:17 (MLM) OUT: "MATLAB" albert@elf5539.data.umich.edu  
+18:43:51 (MLM) OUT: "MATLAB" albert@elf5539.data.umich.edu  
+18:44:28 (MLM) IN: "MATLAB" albert@elf5539.data.umich.edu  
+18:44:47 (MLM) IN: "MATLAB" albert@elf5539.data.umich.edu  
+18:45:12 (MLM) IN: "Compiler" storm@elf-login1.data.umich.edu  
+18:45:21 (MLM) OUT: "MATLAB" albert@elf5539.data.umich.edu  
+18:53:05 (MLM) IN: "MATLAB" storm@elf5625.data.umich.edu  
+18:57:27 (MLM) OUT: "Distrib_Computing_Toolbox" albert@elf5539.data.umich.edu  
+18:57:29 (MLM) OUT: "MATLAB" albert@elf5539.data.umich.edu  
+19:07:12 (MLM) IN: "MATLAB" storm@elf5532.data.umich.edu  
+19:08:17 (MLM) OUT: "Compiler" storm@elf-login2.data.umich.edu  
+19:12:24 (MLM) IN: "MATLAB" storm@elf5570.data.umich.edu  
+19:14:50 (MLM) OUT: "Compiler" storm@elf-login2.data.umich.edu  
+19:15:12 (MLM) IN: "Compiler" storm@elf-login2.data.umich.edu  
+19:25:57 (MLM) OUT: "MATLAB" storm@elf5562.data.umich.edu  
+19:26:03 (MLM) OUT: "MATLAB" storm@elf5211.data.umich.edu  
+19:26:06 (MLM) OUT: "MATLAB" storm@elf5211.data.umich.edu  
+19:26:06 (MLM) OUT: "MATLAB" storm@elf5243.data.umich.edu  
+19:26:06 (MLM) OUT: "MATLAB" storm@elf5211.data.umich.edu  
+19:26:10 (MLM) OUT: "MATLAB" storm@elf5596.data.umich.edu  
+19:26:17 (MLM) OUT: "MATLAB" storm@elf5150.data.umich.edu  
+19:26:17 (MLM) OUT: "MATLAB" storm@elf5243.data.umich.edu  
+19:26:19 (MLM) OUT: "MATLAB" storm@elf5243.data.umich.edu  
+19:26:22 (MLM) OUT: "MATLAB" storm@elf5326.data.umich.edu  
+19:26:22 (MLM) OUT: "MATLAB" storm@elf5326.data.umich.edu  
+19:26:22 (MLM) OUT: "MATLAB" storm@elf5086.data.umich.edu  
+19:26:22 (MLM) OUT: "MATLAB" storm@elf5086.data.umich.edu  
+19:26:26 (MLM) OUT: "MATLAB" storm@elf5243.data.umich.edu  
+19:26:36 (MLM) OUT: "MATLAB" storm@elf5086.data.umich.edu  
+19:34:28 (MLM) IN: "MATLAB" storm@elf5625.data.umich.edu  
+19:35:49 (MLM) OUT: "MATLAB" storm@elf5624.data.umich.edu  
+19:42:12 (MLM) OUT: "MATLAB" batman@elf5539.data.umich.edu  
+19:42:23 (MLM) OUT: "Statistics_Toolbox" batman@elf5539.data.umich.edu  
+19:45:41 (MLM) IN: "Compiler" storm@elf-login2.data.umich.edu  
+20:06:47 (MLM) IN: "MATLAB" batman@elf5539.data.umich.edu  
+20:06:47 (MLM) IN: "Statistics_Toolbox" batman@elf5539.data.umich.edu  
+20:15:22 (MLM) OUT: "MATLAB" flash@elf-login2.data.umich.edu  
+20:18:29 (MLM) OUT: "Distrib_Computing_Toolbox" flash@elf-login2.data.umich.edu  
+20:19:01 (MLM) IN: "MATLAB" flash@elf-login2.data.umich.edu  
+20:19:02 (MLM) IN: "Distrib_Computing_Toolbox" flash@elf-login2.data.umich.edu  
+20:31:24 (MLM) OUT: "MATLAB" flash@elf-login2.data.umich.edu  
+20:32:47 (MLM) OUT: "Distrib_Computing_Toolbox" flash@elf-login2.data.umich.edu  
+20:34:10 (MLM) IN: "MATLAB" flash@elf-login2.data.umich.edu  
+20:34:10 (MLM) IN: "Distrib_Computing_Toolbox" flash@elf-login2.data.umich.edu  
+20:37:15 (MLM) OUT: "MATLAB" flash@elf-login2.data.umich.edu  
+20:52:23 (MLM) IN: "MATLAB" flash@elf-login2.data.umich.edu  
+21:31:33 (MLM) IN: "MATLAB" storm@elf5511.data.umich.edu  
+21:33:22 (MLM) OUT: "MATLAB" storm@elf5566.data.umich.edu  
+21:43:02 (MLM) OUT: "MATLAB" flash@elf-login2.data.umich.edu  
+21:43:08 (MLM) IN: "MATLAB" beast@elf7007.data.umich.edu  
+21:43:23 (MLM) IN: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+21:43:37 (MLM) OUT: "Distrib_Computing_Toolbox" flash@elf-login2.data.umich.edu  
+21:44:28 (MLM) IN: "MATLAB" flash@elf-login2.data.umich.edu  
+21:44:28 (MLM) IN: "Distrib_Computing_Toolbox" flash@elf-login2.data.umich.edu  
+21:59:23 (MLM) OUT: "MATLAB" upsal@elf5236.data.umich.edu  
+21:59:41 (MLM) IN: "MATLAB" upsal@elf5236.data.umich.edu  
+22:03:04 (MLM) IN: "MATLAB" beast@elf7007.data.umich.edu  
+22:03:04 (MLM) IN: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+22:15:16 (MLM) IN: "MATLAB" beast@elf7007.data.umich.edu  
+22:15:21 (MLM) IN: "MATLAB" beast@elf7007.data.umich.edu  
+22:15:21 (MLM) IN: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+22:24:47 (MLM) OUT: "MATLAB" storm@elf5554.data.umich.edu  
+22:24:49 (MLM) IN: "MATLAB" storm@elf5511.data.umich.edu  
+22:27:02 (MLM) OUT: "MATLAB" storm@elf5616.data.umich.edu  
+22:27:03 (MLM) OUT: "MATLAB" storm@elf5616.data.umich.edu  
+22:30:34 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+22:30:34 (MLM) OUT: "MATLAB" beast@elf7007.data.umich.edu  
+22:30:39 (MLM) OUT: "Symbolic_Toolbox" beast@elf7007.data.umich.edu  
+22:52:26 (lmgrd) TIMESTAMP 8/13/2013
+22:57:27 (MLM) TIMESTAMP 8/13/2013
+23:14:38 (MLM) IN: "MATLAB" storm@elf5534.data.umich.edu  
+23:16:18 (MLM) OUT: "MATLAB" storm@elf5534.data.umich.edu  
+23:16:43 (MLM) OUT: "MATLAB" storm@elf5518.data.umich.edu
